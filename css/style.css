@@ -127,7 +127,7 @@
     
    }
   
-  .section-bg {
+  #section-bg {
     background-color: #F3F3F3;
     padding-top: 64px;
     padding-bottom: 64px;
@@ -167,7 +167,7 @@
 
 
 
-    .footer-element {
+    #footer-element {
         padding-top: 96px;
         padding-bottom: 96px;
         padding-right: 150px;
@@ -190,13 +190,17 @@
         justify-content: space-between;
         align-items: center;
         color: blueviolet;
-       
+        
+      
+
+    }
+
+      
        .adres-item {
         color: black;
         
        }
 
-    }
     
      .footer-box1 {
        margin-bottom: 60px;
@@ -224,6 +228,8 @@
      .footer-box5 {
         width: 210px;
         margin-bottom: 20px;
+       
+        
         
      }
 
